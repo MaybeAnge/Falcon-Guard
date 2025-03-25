@@ -4,7 +4,7 @@
 
 ## 📌 Features  
 - Active and discreet protection  
-- Compatible with all FiveM frameworks  
+- Compatible with ESX Legacy
 - Regular updates  
 - Easy and fast setup  
 
