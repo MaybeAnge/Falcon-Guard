@@ -9,7 +9,7 @@
 - Easy and fast setup  
 
 ## 💰 Subscription  
-Falcon Guard is available for **$10/month**, including dedicated support and continuous updates.  
+Falcon Guard is available for **$7/month**, including dedicated support and continuous updates.  
 
 ## 📥 Installation  
 1. Download the files after subscribing.  
