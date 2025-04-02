@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MaybeAnge/Images/blob/main/falcon-guard.png"
+  <img src="https://github.com/MaybeAnge/Images/blob/main/falcon-guard.png" style="width: 70%;">
 </p>
 
 # 🛡️ Falcon Guard – Anti-Cheat for FiveM  
