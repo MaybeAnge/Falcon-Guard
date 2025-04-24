@@ -13,10 +13,10 @@
 - Easy and fast setup  
 
 ## 📥 Installation  
-0. Contact US.
-1. Download the files after subscribing.  
-2. Follow the installation guide provided.  
-3. Enjoy a more secure server!  
+1. Contact US.
+2. Download the files after subscribing.  
+3. Follow the installation guide provided.  
+4. Enjoy a more secure server!  
 
 ## 📩 Support  
 For any questions or assistance, contact us via [contact.support@maybe-ange.com].  
