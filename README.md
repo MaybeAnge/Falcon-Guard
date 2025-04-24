@@ -12,10 +12,8 @@
 - Regular updates  
 - Easy and fast setup  
 
-## 💰 Subscription  
-Falcon Guard is available for **$7/month**, including dedicated support.  
-
 ## 📥 Installation  
+0. Contact US.
 1. Download the files after subscribing.  
 2. Follow the installation guide provided.  
 3. Enjoy a more secure server!  
